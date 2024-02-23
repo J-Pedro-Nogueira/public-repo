@@ -1,2 +1,0 @@
-obj\Debug\net7.0\Protos/Customers.cs \
-obj\Debug\net7.0\Protos/CustomersGrpc.cs: Protos/customers.proto
