@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "H1mFyoKuL+ffU0X/Bp8YrsJ09inBUPz37cpjIQLn8idN7zfPwhU/6pLVPNOh4wk3VkcAPZmYijEik0bi8ZH47Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pedro\\Documents\\Visual Studio 2022\\Projects\\SistemasDistribuidos\\rabbit2\\EmitLogs\\EmitLogs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pedro\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
+    "C:\\Users\\Pedro\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Pedro\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

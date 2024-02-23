@@ -1,0 +1,17 @@
+C:\Users\Pedro\Documents\Visual Studio 2022\Projects\SistemasDistribuidos\rabbit2\EmitLogs\bin\Debug\net7.0\EmitLogs.exe
+C:\Users\Pedro\Documents\Visual Studio 2022\Projects\SistemasDistribuidos\rabbit2\EmitLogs\bin\Debug\net7.0\EmitLogs.deps.json
+C:\Users\Pedro\Documents\Visual Studio 2022\Projects\SistemasDistribuidos\rabbit2\EmitLogs\bin\Debug\net7.0\EmitLogs.runtimeconfig.json
+C:\Users\Pedro\Documents\Visual Studio 2022\Projects\SistemasDistribuidos\rabbit2\EmitLogs\bin\Debug\net7.0\EmitLogs.dll
+C:\Users\Pedro\Documents\Visual Studio 2022\Projects\SistemasDistribuidos\rabbit2\EmitLogs\bin\Debug\net7.0\EmitLogs.pdb
+C:\Users\Pedro\Documents\Visual Studio 2022\Projects\SistemasDistribuidos\rabbit2\EmitLogs\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\Pedro\Documents\Visual Studio 2022\Projects\SistemasDistribuidos\rabbit2\EmitLogs\obj\Debug\net7.0\EmitLogs.csproj.AssemblyReference.cache
+C:\Users\Pedro\Documents\Visual Studio 2022\Projects\SistemasDistribuidos\rabbit2\EmitLogs\obj\Debug\net7.0\EmitLogs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Documents\Visual Studio 2022\Projects\SistemasDistribuidos\rabbit2\EmitLogs\obj\Debug\net7.0\EmitLogs.AssemblyInfoInputs.cache
+C:\Users\Pedro\Documents\Visual Studio 2022\Projects\SistemasDistribuidos\rabbit2\EmitLogs\obj\Debug\net7.0\EmitLogs.AssemblyInfo.cs
+C:\Users\Pedro\Documents\Visual Studio 2022\Projects\SistemasDistribuidos\rabbit2\EmitLogs\obj\Debug\net7.0\EmitLogs.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Documents\Visual Studio 2022\Projects\SistemasDistribuidos\rabbit2\EmitLogs\obj\Debug\net7.0\EmitLogs.csproj.CopyComplete
+C:\Users\Pedro\Documents\Visual Studio 2022\Projects\SistemasDistribuidos\rabbit2\EmitLogs\obj\Debug\net7.0\EmitLogs.dll
+C:\Users\Pedro\Documents\Visual Studio 2022\Projects\SistemasDistribuidos\rabbit2\EmitLogs\obj\Debug\net7.0\refint\EmitLogs.dll
+C:\Users\Pedro\Documents\Visual Studio 2022\Projects\SistemasDistribuidos\rabbit2\EmitLogs\obj\Debug\net7.0\EmitLogs.pdb
+C:\Users\Pedro\Documents\Visual Studio 2022\Projects\SistemasDistribuidos\rabbit2\EmitLogs\obj\Debug\net7.0\EmitLogs.genruntimeconfig.cache
+C:\Users\Pedro\Documents\Visual Studio 2022\Projects\SistemasDistribuidos\rabbit2\EmitLogs\obj\Debug\net7.0\ref\EmitLogs.dll
